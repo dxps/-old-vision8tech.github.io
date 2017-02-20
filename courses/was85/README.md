@@ -2,7 +2,7 @@
 ##### Virtual Machine for student labs
 
 - Start `VirtualBox`
-- Click `New` for creating the virtual Machine
+- Click `New` for creating the virtual machine
 - Use the following settings:
       - os: Linux
       - distro: RedHat 64bit
