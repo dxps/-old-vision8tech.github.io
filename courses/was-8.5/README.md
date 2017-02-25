@@ -1,13 +1,6 @@
 
-##### Virtual Machine for student labs
+##### WAS 8.5.5 course notes
 
-- Start `VirtualBox`
-- Click `New` for creating the virtual machine
-- Use the following settings:
-      - os: Linux
-      - distro: RedHat 64bit
-      - ram: 3 GB
-      - disk: Use existing disk file
+- WAS V9 - What's New ([html](https://visvadw.github.io/courses/was-8.5.5/v9-diffs/was-9-whats-new.html) | [pdf](https://visvadw.github.io/courses/was-8.5.5/v9-diffs/was-9-whats-new.pdf))
 
-See the complete example below:
-   ![](https://github.com/visvadw/visvadw.github.io/raw/master/courses/was85/virtualbox-create-vm-using-existing-disk.png)
+- [VirtualBox - Lab init using existing disk](visvadw.github.io/courses/was-8.5.5/lab-vm-init)
