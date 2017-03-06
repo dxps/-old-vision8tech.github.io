@@ -1,3 +1,3 @@
 ## visvadw.github.io
 
-This is my GitHub site.
+This is the standard repo for GitHub website.
