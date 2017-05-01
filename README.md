@@ -1,3 +1,3 @@
-## visvadw.github.io
+## vision8tech.github.io
 
-This is the standard repo for GitHub website.
+My GitHub website repo.
