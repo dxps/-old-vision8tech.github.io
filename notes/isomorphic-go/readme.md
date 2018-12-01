@@ -1,5 +1,7 @@
 # Notes on Isomorphic Go
 
+This section includes notes related to isomorphic Go related works.
+
 ## The Book
 
 While studying [Isomorphic Go](https://www.packtpub.com/web-development/isomorphic-go) book, I got into some errors with the initial setup on _chapter 2_ and these notes captured the solutions.
@@ -14,7 +16,7 @@ $ go get -u github.com/uxtoolkit/cog
 $
 ```
 
-was solved by using the new homes for `isokit` and `cog`:
+was solved by using the new homes while installing `isokit` and `cog`:
 
 ```bash
 $ go get -u go.isomorphicgo.org/go/isokit
@@ -38,9 +40,15 @@ It was solved by installing `github.com/tdewolff/minify` version 2.3.6 and  `git
 ```shell
 $ pwd
 /files/dev/go/src/github.com/tdewolff
+$ 
 $ curl -L https://github.com/tdewolff/minify/archive/v2.3.6.zip --output minify-2.3.6.zip
 $ unzip minify-2.3.6.zip
 $ mv minify-2.3.6 minify
+$ 
+$ curl -L https://github.com/tdewolff/parse/archive/v2.3.4.zip --output parse-2.3.4.zip
+$ unzip parse-2.3.4.zip
+$ mv parse-2.3.4.zip parse
+$ 
 ```
 
 
