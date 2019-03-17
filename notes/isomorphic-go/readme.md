@@ -47,7 +47,7 @@ $ mv minify-2.3.6 minify
 $ 
 $ curl -L https://github.com/tdewolff/parse/archive/v2.3.4.zip --output parse-2.3.4.zip
 $ unzip parse-2.3.4.zip
-$ mv parse-2.3.4.zip parse
+$ mv parse-2.3.4 parse
 $ 
 ```
 
